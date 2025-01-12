@@ -24,8 +24,9 @@ A responsive **To-Do List App** built using **React.js**, **Vite**, and **Tailwi
 
 ## Screenshots
 
-![Screenshot 2024-12-12 170619](https://github.com/user-attachments/assets/97343d20-7c36-481a-8d7b-719039ccfb04)
-![Screenshot 2024-12-12 170657](https://github.com/user-attachments/assets/450ac88d-4962-493a-9f23-0bb202070419)
+![Screenshot 2025-01-12 155642](https://github.com/user-attachments/assets/9952d941-afe1-4631-a722-a5e9d2c13430)
+
+![Screenshot 2025-01-12 155708](https://github.com/user-attachments/assets/7da62ead-3e15-4071-a1d1-ad299ce42e5a)
 
 
 ## How to Run
